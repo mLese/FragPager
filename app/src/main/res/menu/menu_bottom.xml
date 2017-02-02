@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page1"
+        android:icon="@android:drawable/ic_dialog_alert"
+        android:title="Frag1"/>
+    <item
+        android:id="@+id/page2"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="Frag2"/>
+    <item
+        android:id="@+id/page3"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="Frag3"/>
+    <item
+        android:id="@+id/page4"
+        android:icon="@android:drawable/ic_dialog_dialer"
+        android:title="Frag4"/>
+    <item
+        android:id="@+id/page5"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="Frag5"/>
+</menu>
